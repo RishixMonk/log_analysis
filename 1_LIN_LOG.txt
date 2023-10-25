@@ -1,0 +1,10 @@
+/synergy_wa/CM_11_VE/10xx~cm37bo~2-cm11ve~Rel7_1/10xx/sdc/sdc_kernel/hal/start/start_kernel/start_kernel_cfg.h 530 Error 553: Undefined preprocessor variable 'TC39X' of type 'void', assumed 0 [MM-PWT 3: MISRA R20.9]
+
+
+
+  return (OsEE_reg)__builtin_clz(reg);
+/synergy_wa/CM_11_VE/10xx~cm37bo~2-cm11ve~Rel7_1/10xx/erika/ee_hal.h 185 Error 718: Symbol '__builtin_clz' of type 'void' undeclared, assumed to return int [MM-PWT 1: MISRA R17.3]
+_
+}
+
+/synergy_wa/CM_11_VE/10xx~cm37bo~2-cm11ve~Rel8_UT_ENV/10xx/erika/ee_platform_types.h 200 Error 963: Qualifier const or volatile follows a type; use -fqb to reverse the test [MM-PWT 7]

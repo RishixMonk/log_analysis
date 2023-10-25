@@ -1,0 +1,2 @@
+Line No,File Path,Error No,Error Message,Misra Level,MISRA Rule No
+185,/synergy_wa/CM_11_VE/10xx~cm37bo~2-cm11ve~Rel7_1/10xx/erika/ee_hal.h,718,"""Symbol '__builtin_clz' of type 'void' undeclared, assumed to return int""",MM-PWT 1,MISRA R 17.3
